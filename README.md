@@ -5,5 +5,5 @@ After studying in college for half a year, the coming GSAT recalled my memories 
 An idea came into my mind: Why not build a AST Fighter filter to accompany with them? For those who are gonna study for another half year, a interesting filter with countdown timer and exam schedule could be useful, and thus I started my work to build a instagram filter.
 
 ### About
-The filter has 5 effects:
-![image](./textures/)
+The filter has 5 effects:  
+![image](./textures/指陰影白.png)
