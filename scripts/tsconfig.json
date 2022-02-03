@@ -1,13 +1,13 @@
 {
   "compilerOptions": {
     "allowJs": true,
-    "baseUrl": "/var/folders/8v/lm64fs3d08gdf8cqzz252dt80000gn/T/028f-d4a8-9a5c-2379/105550d6c65471a2df4890b8f3ea23131b08d8",
+    "baseUrl": "/var/folders/8v/lm64fs3d08gdf8cqzz252dt80000gn/T/bcb7-24ad-10e9-127b/10474867408c2caf6343d8a51b5833d4ff0a6c",
     "checkJs": true,
     "esModuleInterop": true,
     "lib": [
       "ES2019"
     ],
-    "outDir": "/var/folders/8v/lm64fs3d08gdf8cqzz252dt80000gn/T/028f-d4a8-9a5c-2379/105550d6c65471a2df4890b8f3ea23131b08d8/out-dir",
+    "outDir": "/var/folders/8v/lm64fs3d08gdf8cqzz252dt80000gn/T/bcb7-24ad-10e9-127b/10474867408c2caf6343d8a51b5833d4ff0a6c/out-dir",
     "paths": {
       "*": [
         "skylight-typedefs/*",
@@ -15,7 +15,7 @@
       ]
     },
     "typeRoots": [
-      "/var/folders/8v/lm64fs3d08gdf8cqzz252dt80000gn/T/028f-d4a8-9a5c-2379/105550d6c65471a2df4890b8f3ea23131b08d8/skylight-node_modules/@types"
+      "/var/folders/8v/lm64fs3d08gdf8cqzz252dt80000gn/T/bcb7-24ad-10e9-127b/10474867408c2caf6343d8a51b5833d4ff0a6c/skylight-node_modules/@types"
     ],
     "types": [
       "node"
