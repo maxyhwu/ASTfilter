@@ -8,27 +8,27 @@ An idea came into my mind: Why not build a AST Fighter filter to accompany with 
 The filter has 5 effects, and I'll show all of them above:
 
 ---  
-<img src="./textures/指陰影白.png" width=100>  
+<img src="./textures/指陰影白.png" width=100>
 
 > The Chinese word "指考" stands for AST, and we often use this emoji(🈯️) to represent AST.  
 
 ---
-<img src="./textures/指考就上(1).png" height=100>  
+<img src="./textures/指考就上(1).png" height=100>
 
 > Lots of Taiwanese students would resit if they weren't satisfy about their AST score, so this effect aims to pray for AST fighters that all of them could get into their dream college by AST rather than re-take GSAT.  
   
 ---
-<img src="./textures/指考戰士(2).png" height=100>  
+<img src="./textures/指考戰士(2).png" height=100>
 
 > The Chinese word of **AST Fighter**.  
   
 ---
-<img src="./textures/考程.png" height=300>   
+<img src="./textures/考程.png" height=300>
 
 > The exam schedule of 2021 AST. A countdown timer for 2021 AST is included.  
   
 ---
-<img src="./textures/fridge.png" height=300>  
+<img src="./textures/fridge.png" height=300>
 
 > The topic of Chinese essay writing subject in 2021 GSAT is "If I had a Refrigerator...", and fridge became a famous joke at that time.
 
