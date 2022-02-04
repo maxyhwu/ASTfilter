@@ -6,26 +6,31 @@ An idea came into my mind: Why not build a AST Fighter filter to accompany with 
 
 ### About
 The filter has 5 effects, and I'll show all of them above:
-#### 🈯️
-![image](./textures/指陰影白.png | width=100)  
+
+---  
+<img src="./textures/指陰影白.png" width=100>  
+
+> The Chinese word "指考" stands for AST, and we often use this emoji(🈯️) to represent AST.  
+
+---
+<img src="./textures/指考就上(1).png" height=100>  
+
+> Lots of Taiwanese students would resit if they weren't satisfy about their AST score, so this effect aims to pray for AST fighters that all of them could get into their dream college by AST rather than re-take GSAT.  
   
-The Chinese word "指考" stands for AST, and we often use this emoji(🈯️) to represent AST.
-#### 指考就上
-![image](./textures/指考就上(1).png | width=100)  
+---
+<img src="./textures/指考戰士(2).png" height=100>  
+
+> The Chinese word of **AST Fighter**.  
   
-Lots of Taiwanese students would resit if they weren't satisfy about their AST score, so this effect aims to pray for AST fighters that all of them could get into their dream college by AST rather than re-take GSAT.
-#### 指考戰士
-![image](./textures/指考戰士(2).png | width=100)  
+---
+<img src="./textures/考程.png" height=300>   
+
+> The exam schedule of 2021 AST. A countdown timer for 2021 AST is included.  
   
-The Chinese word of **AST Fighter**.
-#### Schedule
-![image](./textures/考程.png | width=100)  
-  
-The exam schedule of 2021 AST. A countdown timer for 2021 AST is included.
-#### Refrigerator
-![image](./textures/fridge.jpg | width=100)  
-  
-The topic of Chinese essay writing subject in 2021 GSAT is "If I had a Refrigerator...", and fridge became a famous joke at that time.
+---
+<img src="./textures/fridge.png" height=300>  
+
+> The topic of Chinese essay writing subject in 2021 GSAT is "If I had a Refrigerator...", and fridge became a famous joke at that time.
 
 ### Future & ...
 Since there won't have AST in the future due to education reform, I might not update this filter. However, I **do** plan to create other filters in the future!!  
